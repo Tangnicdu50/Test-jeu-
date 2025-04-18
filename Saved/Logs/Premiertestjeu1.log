@@ -1367,3 +1367,55 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.18-14.19.05:750][939]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 312.884705
 [2025.04.18-14.19.06:750][942]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.18-14.19.06:750][942]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 313.551208, Update Interval: 316.505615
+[2025.04.18-14.24.26:850][903]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 633.940796
+[2025.04.18-14.24.27:851][905]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-14.24.27:851][905]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 634.607422, Update Interval: 326.305725
+[2025.04.18-14.30.00:932][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 967.975037
+[2025.04.18-14.30.01:932][907]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-14.30.01:932][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 968.641663, Update Interval: 333.989075
+[2025.04.18-14.35.47:348][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1314.354004
+[2025.04.18-14.35.48:348][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-14.35.48:349][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1315.022583, Update Interval: 353.682678
+[2025.04.18-14.42.08:434][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1695.402710
+[2025.04.18-14.42.09:434][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-14.42.09:434][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1696.069580, Update Interval: 342.851654
+[2025.04.18-14.45.36:037][589]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.04.18-14.45.37:147][707]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.18-14.45.37:149][707]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.04.18-14.45.37:222][707]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-14.45.38:744][707]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-14.45.39:046][708]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.04.18-14.45.39:119][710]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.04.18-14.48.29:986][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2076.921387
+[2025.04.18-14.48.30:986][574]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-14.48.30:986][574]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2077.588379, Update Interval: 326.877045
+[2025.04.18-14.54.29:064][648]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2435.975342
+[2025.04.18-14.54.30:064][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-14.54.30:064][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2436.642334, Update Interval: 322.442078
+[2025.04.18-15.00.46:471][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2813.355957
+[2025.04.18-15.00.47:470][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-15.00.47:470][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2814.021973, Update Interval: 329.191559
+[2025.04.18-15.06.59:204][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3186.069092
+[2025.04.18-15.07.00:205][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-15.07.00:205][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3186.735596, Update Interval: 324.513062
+[2025.04.18-15.09.22:210][ 19]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.04.18-15.09.53:589][682]LogSceneOutliner: Outliner Column Content Bundle Client does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.18-15.09.53:589][682]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.18-15.09.53:589][682]LogSceneOutliner: Outliner Column Content Bundle Status does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.18-15.09.53:589][682]LogSceneOutliner: Outliner Column Editing does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.18-15.09.53:590][682]LogSceneOutliner: Outliner Column Content Bundle Actor Count does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.18-15.09.56:866][ 56]LogSlate: Window 'Ensembles de contenu' being destroyed
+[2025.04.18-15.09.56:870][ 56]LogSlate: Window 'Ensembles de contenu' being destroyed
+[2025.04.18-15.10.27:848][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-15.10.27:884][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04
+[2025.04.18-15.10.27:885][704]LogSavePackage: Moving '../../../../../../Users/nicol/Music/jeu mobile 2/création premier jeu/Premiertestjeu1/Saved/1IKKDYS7RULH8FRYRPPF046AF6E77046B1A04A7BFC6FA664CA5030.tmp' to '../../../../../../Users/nicol/Music/jeu mobile 2/création premier jeu/Premiertestjeu1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset'
+[2025.04.18-15.10.27:902][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.424 ms
+[2025.04.18-15.10.27:928][704]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-15.10.27:928][704]LogContentValidation: Enabled validators:
+[2025.04.18-15.10.27:928][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-15.10.27:928][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-15.10.27:928][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-15.10.27:928][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-15.10.27:928][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-15.10.27:928][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-15.10.27:928][704]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validation de la ressource
